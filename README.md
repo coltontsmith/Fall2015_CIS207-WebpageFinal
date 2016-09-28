@@ -23,4 +23,6 @@ For the creation of the art, I used a Wacom Intuos Tablet for input, and Autodes
 
 The site is a bit crude and by today's standards not exactly what I would call "aesthetically pleasing", but it was done. I had completed my project and was ready to check the consistency of every page, make last minute changes to an entry on the table, and change the color of the border ever so slightly before reverting to the previous shade. I gave it one last review, zipped the folder, and then in an act of paranoia checked the zip file just to ensure everything was where it needed to be after it would be opened by my instructor. I was happy with the changes and submitted my project. My instructor seemed pleased as well and assigned a favorable grade in the process.
 
-This project allowed me to reconnect with my creative side, something I haven't had the pleasure of doing in quite a few years, and really made me appreciate how much work goes into creating and managing a large professional website.
+This project allowed me to reconnect with my creative side, something I haven't had the pleasure of doing in quite a few years, and really made me appreciate how much work goes into creating and managing a large professional website. There are a lot of challenges involved with maintaining a theme and ensuring that content presented on the site properly reflects the motif with little deviation. It was a challenging endeavor, but a welcomed project to finish up my coursework for introductory web design.
+
+> Colton Smith
