@@ -1,0 +1,123 @@
+
+body
+{
+	background-color:#6fab8a;
+}
+
+#Banner-index
+{
+	text-align: center;
+	font-family: Arial;
+}
+
+#main-directory
+{
+
+	border-bottom: solid;
+	border-color: #634E41;
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#main-column
+{
+	background-color:#CAD2C5;
+	margin: auto;
+	border-style: solid;
+	border-Color: #634E41;
+	margin-top: 5px;
+	width:850px;
+	height:100%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+}
+
+#main-entry 
+{
+	color: #2A2B2E;
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%; 
+}
+
+#main-form
+{
+	margin-left: auto;
+	margin-right: auto;
+	padding: 5px;
+	padding-bottom: 10px;
+}
+
+#img-p-left
+{
+	float: left;
+	border: 3px;
+	border-Color: #634E41;
+	border-style: solid;
+	margin: 10px 10px 10px 10px;
+}
+
+#img-p-right
+{
+	float: right;
+	border: 3px;
+	border-Color: #634E41;
+	border-style: solid;
+	margin: 10px 10px 10px 10px;
+}
+
+#DescriptionForm
+{
+	width:500px;
+	height: 200px;
+	vertical-align: top;
+}
+
+#Table-of-Services
+{
+	width: 75%;
+	padding: 0px;
+	table-layout: fixed;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px;
+	border-style: solid;
+	border-color: black;
+}
+
+.b-Services-Disclaimer
+{
+font-family: arial;
+}
+
+table, th, td
+{
+	border: 1px;
+	border-style: solid;
+	border-Color: black;
+	border-collapse: collapse;
+	font-family: Arial;
+}
+
+td
+{
+	text-align: center;
+	font-weight: bold;
+}
+
+dt
+{
+	font-weight: bold;
+	font-size: 125%;
+}
+
+.ImageBorder
+{
+	margin-left: auto;
+	margin-right: auto;
+	border-bottom: solid;
+	border-bottom-color: #634E41;
+}
