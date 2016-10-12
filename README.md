@@ -1,6 +1,6 @@
 # Fall2015 webpage final: Cheaha PC Repair
 
-During my time at Gadsden State Community College, I had the pleasure of taking an introductory course in web-design. Throughout the semester we used Expression Web to design and update our assignments in real time, focusing on basic implementation of the HTML5 and CSS3 laguages.
+During my time at Gadsden State Community College, I had the pleasure of taking an introductory course in web-design. Throughout the semester we used Expression Web to design and update our assignments in real time, focusing on basic implementation of the HTML5 and CSS3 languages.
 
 The project located within this repository is my submission for our final project. Our instructor required the following from us:
 - Including the "index.html" page, at least 4 web pages.
